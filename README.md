@@ -74,6 +74,14 @@
 
 <br>
 
+<h2 align="center">📈 Contribution Activity Graph</h2>
+
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=priyanu15&theme=radium&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" />
+</div>
+
+<br>
+
 <h2 align="center">🐍 Code Contribution Snake</h2>
 
 <!-- 
