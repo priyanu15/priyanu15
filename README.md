@@ -1,12 +1,24 @@
 <h1 align="center">Hi there 👋, I'm Priyanu Tushar</h1>
 
-<h3 align="center">A passionate developer exploring C, Python, R, and Embedded Systems</h3>
+<h3 align="center">Cybersecurity | Embedded Systems | Secure Software Engineering</h3>
+
+<p align="center">
+  Currently pursuing M.Sc. in Information and Communication Systems at TU Hamburg (TUHH).
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DF7B8&center=true&vCenter=true&width=800&lines=M.Sc.+Secure+Dependable+IT+Systems;Cybersecurity+%26+Embedded+Systems;Python,+C,+and+R+Developer;Always+building+and+learning!" alt="Typing SVG" />
+</div>
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2E95D3&center=true&vCenter=true&width=435&lines=Embedded+Systems+Enthusiast;Python,+C,+and+R+Developer;Always+building+and+learning!" alt="Typing SVG" />
-</div>
+<h2 align="center">🚀 About Me</h2>
+
+- 🔭 I’m currently working on **Detection of Zeno Behaviour in Timed Automata** and **AI-Driven Threat/Risk Analysis**.
+- 🌱 I’m deeply passionate about **Cyber-Physical Systems Security, Automotive Software, and Embedded Security (CAN Bus)**.
+- 💼 Previously: **Associate Engineer Intern at L&T Technology Services** building smart car features & RKE systems.
+- 💬 Ask me about **Secure Software Development, ROS 2 Navigation, or System Integration**.
+- 📫 Reach me at: <a href="https://linkedin.com/in/priyanu-tushar">LinkedIn</a>
 
 <br>
 
@@ -16,11 +28,34 @@
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Embedded_C-FF9900?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</div>
+<br>
+<div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1F2937?style=for-the-badge&logo=hackthebox&logoColor=2DF7B8" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Automotive-FF0000?style=for-the-badge&logo=tesla&logoColor=white" alt="Automotive" />
+  <img src="https://img.shields.io/badge/CANoe-005571?style=for-the-badge" alt="CANoe" />
 </div>
+
+<br>
+
+<h2 align="center">🔥 Featured Projects</h2>
+
+### 🛡️ [AI-Driven Threat and Risk Analysis](#)
+*Developed an AI-powered threat modeling system analyzing architecture diagrams/JSON to generate STRIDE threats and CVEs using NVD/CISA datasets.*
+
+### ⏱️ [Zeno Behaviour in Timed Automata](#)
+*Structure-oriented analysis pipeline for detecting Zeno behavior in UPPAAL models using abstraction networks and Tarjan's SCC algorithm.*
+
+### 🤖 [AMR Navigation Test Environment](#)
+*Designed and simulated Autonomous Mobile Robot navigation strategies in Gazebo/ROS 2 using LiDAR and T-GA/A*/K-L path planning algorithms.*
 
 <br>
 
