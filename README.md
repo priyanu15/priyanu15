@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DF7B8&center=true&vCenter=true&width=800&lines=M.Sc.+Secure+Dependable+IT+Systems;Cybersecurity+%26+Embedded+Systems;Python,+C,+and+R+Developer;Always+building+and+learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2DF7B8&center=true&vCenter=true&width=800&lines=M.Sc.+Secure+Dependable+IT+Systems;Embedded+Systems;Python,+C,+and+Developer;Always+building+and+learning!" alt="Typing SVG" />
 </div>
 
 <br>
@@ -34,6 +34,8 @@
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+ 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Cybersecurity-1F2937?style=for-the-badge&logo=hackthebox&logoColor=2DF7B8" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Automotive-FF0000?style=for-the-badge&logo=tesla&logoColor=white" alt="Automotive" />
